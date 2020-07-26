@@ -1,6 +1,6 @@
 package appium
 
-import "github.com/bradbev/agouti"
+import "github.com/sclevine/agouti"
 
 func NewTestDevice(session mobileSession) *Device {
 	return &Device{

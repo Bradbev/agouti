@@ -1,1 +1,1 @@
-module github.com/bradbev/agouti
+module github.com/sclevine/agouti

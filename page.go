@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bradbev/agouti/api"
+	"github.com/sclevine/agouti/api"
 )
 
 // A Page represents an open browser session. Pages may be created using the

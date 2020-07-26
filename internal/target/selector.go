@@ -3,7 +3,7 @@ package target
 import (
 	"fmt"
 
-	"github.com/bradbev/agouti/api"
+	"github.com/sclevine/agouti/api"
 )
 
 type Type string

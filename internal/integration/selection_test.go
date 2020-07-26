@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/bradbev/agouti"
-	. "github.com/bradbev/agouti/matchers"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
+	"github.com/sclevine/agouti"
+	. "github.com/sclevine/agouti/matchers"
 )
 
 func testSelection(browserName string, newPage pageFunc) {
